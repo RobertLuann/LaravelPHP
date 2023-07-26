@@ -76,7 +76,7 @@
                                         
                                         <div class="carousel-caption">
                                             <div class="d-flex align-items-center">
-                                                <h4 class="hero-text">Sausage Pasta</h4>
+                                                <h4 class="hero-text">Sausagea Pasta</h4>
 
                                                 <span class="price-tag ms-4"><small>$</small>18.25</span>
                                             </div>
